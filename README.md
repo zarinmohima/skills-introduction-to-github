@@ -23,8 +23,6 @@ Zarin Mohima - zarinmohima@example.com
 
 GitHub: https://github.com/zarinmohima
 
-yaml
-Copy code
 
 ## Acknowledgments
 
