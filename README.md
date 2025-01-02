@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I am a passionate Business Analyst with a strong f
 
 # Zarin Mohima's Portfolio
 
-Welcome to my GitHub! Here you'll find my work on various business analysis, automation, and DevOps projects. Feel free to explore!
-
-
 
 Contact
 Zarin Mohima - zarinmohima@example.com
