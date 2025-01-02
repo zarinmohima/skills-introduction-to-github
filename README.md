@@ -1,11 +1,11 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Zarin Mohima
+
+Welcome to my GitHub profile! I am a passionate Business Analyst with a strong focus on data analysis, process optimization, and DevOps learning. I enjoy solving complex problems, automating workflows, and improving efficiency through technology. Feel free to explore my repositories and connect!
+
+[LinkedIn](https://www.linkedin.com/in/zarinmohima) | [GitHub](https://github.com/zarinmohima)
+
 
 # Introduction to GitHub
 
